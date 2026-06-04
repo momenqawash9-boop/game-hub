@@ -16,11 +16,15 @@ jobs:
           java-version: '17'
           distribution: 'temurin'
 
+      - name: Show project structure
+        run: find . -name "gradlew" 2>/dev/null
+
       - name: Grant execute permission for gradlew
         run: chmod +x project_updated/gradlew
 
       - name: Build Debug APK
-        run: cd project_updated && ./gradlew assembleDebug
+        working-directory: project_updated
+        run: ./gradlew assembleDebug
 
       - name: Upload APK
         uses: actions/upload-artifact@v4
