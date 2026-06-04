@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Game Booster</string>
+    <string name="app_name_ar">مسرع الألعاب</string>
+    <string name="dashboard_title">لوحة التحكم</string>
+    <string name="game_library_title">مكتبة الألعاب</string>
+    <string name="ram_usage">مساحة الذاكرة RAM</string>
+    <string name="battery_status">حالة البطارية</string>
+    <string name="cpu_temp">حرارة المعالج</string>
+    <string name="boost_button">تسريع فوري</string>
+    <string name="boosting_status">جاري تسريع النظام وتفريغ الذاكرة...</string>
+    <string name="boost_sucess">تم تنظيف الذاكرة بنجاح!</string>
+    <string name="settings_title">الإعدادات والميزات</string>
+    <string name="performance_mode">وضع الأداء الخارق</string>
+    <string name="performance_mode_desc">تنظيف تلقائي للرام عند تشغيل أي لعبة من التطبيق</string>
+    <string name="dnd_mode">وضع عدم الإزعاج</string>
+    <string name="dnd_mode_desc">تفعيل كتم الإشعارات وحظر المكالمات أثناء اللعب</string>
+    <string name="brightness_lock">قفل السطوع والسطوع التلقائي</string>
+    <string name="brightness_lock_desc">تثبيت مستوى السطوع لمنع انخفاض الإضاءة المفاجئ</string>
+    <string name="app_selector_title">إدارة الألعاب والتطبيقات</string>
+    <string name="app_selector_desc">حدد التطبيقات والألعاب التي تريد إدراجها في مكتبة التسريع</string>
+    <string name="search_apps">البحث عن التطبيقات...</string>
+    <string name="auto_detected_games">ألعاب تم رصدها تلقائياً</string>
+    <string name="user_added_apps">تطبيقات مضافة من قبل المستخدم</string>
+    <string name="floating_widget">الواجهة العائمة</string>
+    <string name="floating_widget_desc">إظهار أيقونة عائمة شفافة أثناء اللعب لتسهيل لقطة الشاشة والتسريع السريع</string>
+    <string name="save_settings">حفظ الإعدادات</string>
+    <string name="empty_games">لا توجد ألعاب مضافة بعد! اضغط على (+) لإضافة ألعاب</string>
+    <string name="fps">الإطارات FPS</string>
+    <string name="take_screenshot">لقطة شاشة</string>
+    <string name="cleaned_ram_title">تم تنظيف</string>
+</resources>

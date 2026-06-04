@@ -1,0 +1,6 @@
+{
+  "name": "Game Booster",
+  "description": "An immersive, smart, and fully functional Game Booster & performance dashboard with custom game launchers, live memory/battery indicators, floating speedup overlay, and customizable game library lists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
